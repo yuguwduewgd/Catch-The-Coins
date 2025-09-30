@@ -40,9 +40,10 @@ Test your reflexes, catch as many coins as you can, and beat your high score! �
 
 ## 🎮 Controls
 
-- ⬅️ **Left Arrow:** Move left
-- ➡️ **Right Arrow:** Move right
-- ❌ **Esc:** Quit game
+W- Move Forward
+S- Move Backward
+A- Move Left
+D- Move Right
 
 ---
 
@@ -60,8 +61,9 @@ Test your reflexes, catch as many coins as you can, and beat your high score! �
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the GNU License.
 
 ---
 
 **Enjoy catching coins! 🪙🕹️**
+Comment your score through email: yug20256@gmail.com
